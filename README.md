@@ -1,2 +1,2 @@
 # testLidarIT
-This repository content files and folders of the thecnical test of liDArit
+This repository contains the corresponding files of the technical test for applying to liDArit
