@@ -24,10 +24,10 @@ for i in range(0,len(trama)):
     if(i == 51):
         break
     if(trama[i] == 'B' and  trama[i+1] == 'X'):
-        print("entre")
         for j in range(i+2,len(trama)):
             if(trama[j] == 'A' and  trama[j+1] == 'X'):
                 counter += 1
                 break
-        
+
+print(counter)   
         
